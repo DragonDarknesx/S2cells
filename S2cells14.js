@@ -4,9 +4,9 @@
 // @author         ReBootYourMind
 // @category       Layer
 // @version        0.1.5
-// @namespace      https://github.com/vibrunazo/l14cells
-// @updateURL      ..
-// @downloadURL    ..
+// @namespace      https://github.com/ReBootYourMind/S2cells
+// @updateURL      https://github.com/ReBootYourMind/S2cells/blob/master/S2cells14.js
+// @downloadURL    https://github.com/ReBootYourMind/S2cells/blob/master/S2cells14.js
 // @description    IITC: Shows level 14 cells on the map
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
